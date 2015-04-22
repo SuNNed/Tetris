@@ -1,8 +1,8 @@
 //=========================================================
-// Project      Win32 俄罗斯方块程序
+// Project      Win64 俄罗斯方块程序
 // File         Tetris.cpp 主程序
-// Update       2009.04
-// Author       沉淪 http://www.EasyIDE.cn
+// Update       2015.4
+// Author       872329506@qq.com
 // Download bvbsoft   ：http://www.bvbsoft.com
 // Tools        Visual C++ 6.0 & Editplus 3
 //=========================================================
